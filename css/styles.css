@@ -1,0 +1,49 @@
+body{
+    background-color: lightblue;
+}
+
+ol, ul {
+    color: blue;
+}
+
+h1{
+    color: blue;
+}
+
+.html1 .html2{
+    border: 10px solid blue;
+}
+
+.navbar{
+    list-style-type: none;
+    margin-bottom: 10px;
+    padding: 0;
+    overflow: hidden;
+}
+.navbar .list{
+    float: left;
+    list-style-type: none;
+}
+
+.list a{
+    display: block;
+    padding: 8px;
+    background-color: lightgreen;
+    text-decoration: none;
+}
+
+.fieldset1{
+    border: 10px solid blueviolet;
+}
+
+.fieldset2{
+    border: 10px solid green;
+}
+
+.fieldset3{
+    border: 10px solid orange;
+}
+
+.fieldset4{
+    border: 10px solid palevioletred;
+}
