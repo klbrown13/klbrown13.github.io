@@ -11,54 +11,27 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Data Science, Eastern University, October 2025 
+* M.S. in Data Science, Eastern University, October 2025
+  * Capstone - I created an entire course covering Geospatial Data Analytics 
 * Master of Library Science, East Carolina University, May 2019
-* Bachelor of Science in Computer Science, University of North Carolina at Charlotte, May 2014
+* B.S. in Computer Science, University of North Carolina at Charlotte, May 2014
 
-Work experience
+Relevant Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2020 - present: Librarian, Charlotte Mecklenburg Library
+  
+* July 2019 - October 2020: Technology Librarian, Charleston County Public Library
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2012 - August 2015: Research Assistant, University of North Carolina at Charlotte
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn
+* R
+  * Markdown, dplry, ggplot2, tidyr, lmtest
+* SQL 
+* Tableau
+* PowerBI
+* Excel
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
