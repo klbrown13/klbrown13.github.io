@@ -4,4 +4,8 @@ excerpt: "I was given a dataset and showcased all that I have learned throughout
 collection: portfolio
 ---
 
+More: [Final Project Link](https://public.tableau.com/app/profile/kurt.brown8254/viz/DTSC600_FinalProject_KurtBrown/SalesandProfitStoryKurtBrown?publish=yes)
+
+
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
