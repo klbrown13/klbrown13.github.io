@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master of Science in Data Science, Eastern University, October 2025 
+* Master of Library Science, East Carolina University, May 2019
+* Bachelor of Science in Computer Science, University of North Carolina at Charlotte, May 2014
 
 Work experience
 ======
