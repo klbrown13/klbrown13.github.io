@@ -1,6 +1,6 @@
 ---
-title: "Traffic Prediction"
-excerpt: "Predict hourly traffic volumes using the Metro Interstate Traffic Volume data set and the TensorFlow package"
+title: "Geospatial Data Analytics"
+excerpt: "For my capstone for my MS in Data Analytics program, I created a Geospatial Data Analytics course using Python libraries"
 collection: portfolio
 ---
 
