@@ -1,6 +1,6 @@
 ---
 title: "DTSC 600 - Final Project"
-excerpt: "I was given a dataset and showcased all that I have learned throughout this course by performing an analysis on the data and communicated my analysis using various charts, calculations, visualization formatting, a dashboard, and a Tableau story. <br/><img src='/images/500x300.png'>"
+excerpt: "I was given a dataset and showcased all that I have learned throughout this course by performing an analysis on the data and communicated my analysis using various charts, calculations, visualization formatting, a dashboard, and a Tableau story. <br/>"
 collection: portfolio
 ---
 
