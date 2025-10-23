@@ -1,6 +1,6 @@
 ---
 title: "DTSC 670 - Foundations of Machine Learning Models"
-excerpt: Machine Learning Assignments Completed using Python
+excerpt: "Machine Learning Assignments Completed using Python"
 collection: portfolio
 ---
 
