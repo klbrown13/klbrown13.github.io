@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -27,7 +27,7 @@ Relevant Work experience
 Skills
 ======
 * Python
-  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn
+  * Pandas, NumPy, MatPlotLib, scikit-learn
 * R
   * Markdown, dplry, ggplot2, tidyr, lmtest
 * SQL 
