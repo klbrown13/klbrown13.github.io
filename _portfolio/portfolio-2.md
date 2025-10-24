@@ -1,5 +1,5 @@
 ---
-title: "DTSC 691 - Geospatial Data Analytics"
+title: "DTSC 691 - Applied Data Science"
 excerpt: "For my capstone for my MS in Data Science program, I created a Geospatial Data Analytics course using Python libraries"
 collection: portfolio
 ---
